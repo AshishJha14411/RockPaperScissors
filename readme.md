@@ -4,7 +4,7 @@ This is a mini project done in HTML, CSS and Javascript. Rock, Paper and Scissor
 
 1 hour and 30 mins approximately
 
-[Live Demo](https://shadeup-akj.netlify.app/)
+[Live Demo](https://rockpaperscissors-akj.netlify.app/)
 
 ### SnapShot of the program
 
